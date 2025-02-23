@@ -1,2 +1,0 @@
-# ecommerce
-Ecommerce React App
